@@ -31,7 +31,7 @@ def lambda_handler(event, context):
     #print("Quote:", quote)
     #print("Author:", author)
 
-    subject = "Your Daily Motivational Quote í¼Ÿ"
+    subject = "Your Daily Motivational Quote ðŸŒŸ"
     body_text = f'"{quote}"\n\n- {author}'
 
     print("Body text", body_text)
