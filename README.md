@@ -31,7 +31,7 @@ Here’s an updated version of your challenges section with **headings** and **e
 
 ---
 
-### 💡 **Challenges Faced (19th Feb)**
+### 💡 **Challenges Faced**
 1. **🧪 Testing Layers Individually**
    - It was essential to test each layer individually to ensure everything was functioning correctly and avoid conflicts between libraries.
 2. **⚠️ Layer Size Limit (250 MB)**
