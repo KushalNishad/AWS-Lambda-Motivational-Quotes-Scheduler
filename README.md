@@ -29,6 +29,8 @@ This project is an AWS Lambda function that sends a **random motivational quote*
 
 Here’s an updated version of your challenges section with **headings** and **emojis** for a more engaging look:
 
+## Motivational Quotes received by an email
+![Output](docs/OutputEmail.png)
 ---
 
 ### 💡 **Challenges Faced**
