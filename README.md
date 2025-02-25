@@ -6,7 +6,7 @@ This project is an AWS Lambda function that sends a **random motivational quote*
 ## 🚀 Features
 - Fetches a random quote from a **CSV file** stored in **S3**.
 - Sends an **email notification** using **Amazon SES**.
-- Uses **AWS EventBridge Scheduler** to run the function **daily at 9:00 AM**.
+- Uses **AWS EventBridge Scheduler** to run the function **daily at 9:00 AM** with a Flexible time window of **15 minutes**.
 
 ## 🏗 Architecture
 - **Amazon S3**: Stores the CSV file containing motivational quotes.
