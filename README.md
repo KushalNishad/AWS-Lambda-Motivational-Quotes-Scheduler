@@ -22,7 +22,5 @@ This project is an AWS Lambda function that sends a **random motivational quote*
 - IAM Role with permissions for Lambda, EventBridge, SES, and S3
 - Python installed locally
 
-### Deploying the Lambda Function
-1. **Install dependencies**:
-   ```sh
-   pip install -r requirements.txt
+## Acknowledgments
+- The idea for this project was provided by [Kriti Bhandari](https://www.linkedin.com/in/kritibhandari/).
