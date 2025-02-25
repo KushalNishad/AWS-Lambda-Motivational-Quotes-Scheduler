@@ -14,7 +14,7 @@ This project is an AWS Lambda function that sends a **random motivational quote*
 - **Amazon SES**: Sends the email with the quote.
 - **Amazon EventBridge**: Triggers Lambda function daily at 9:00 AM.
 
-![Architecture Diagram](docs/Architecture Diagram.png.png)
+![Architecture Diagram](docs/Architecture Diagram.png)
 
 ## 🛠 Setup & Deployment
 ### Prerequisites
