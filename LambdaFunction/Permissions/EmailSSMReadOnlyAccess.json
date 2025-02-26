@@ -9,8 +9,8 @@
                 "ssm:List*"
             ],
             "Resource": [
-                "arn:aws:ssm:<region>:<accountID>:parameter/RecipientEmailID",
-                "arn:aws:ssm:<region>:<accountID>:parameter/SenderEmailID"
+                "arn:aws:ssm:<region>:<account-ID>:parameter/RecipientEmailID",
+                "arn:aws:ssm:<region>:<account-ID>:parameter/SenderEmailID"
             ]
         }
     ]
