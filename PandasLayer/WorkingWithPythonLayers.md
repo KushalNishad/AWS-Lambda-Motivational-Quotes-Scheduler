@@ -15,16 +15,16 @@ layer_content.zip
                 └ ...
 ```
 
-### **🛠️ Steps to Work with Manylinux wheels**
+### **🛠️ Steps to Work with Manylinux wheel**
 
-1. **🔍 Install Python Libraries Using Manylinux wheels**
-   Manywheels offers precompiled wheels for many Python libraries that are compatible with different Linux versions used in AWS Lambda. This eliminates the need to compile libraries during deployment, improving the efficiency of the deployment process.
+1. **🔍 Install Python Libraries Using Manylinux wheel**
+   Manylinux wheel offers precompiled wheels for many Python libraries that are compatible with different Linux versions used in AWS Lambda. This eliminates the need to compile libraries during deployment, improving the efficiency of the deployment process.
 
 2. **🔎 Search and Download the Library from PyPI**
    - Go to [PyPI](https://pypi.org/project/) and search for the library you want to install.
    - Under the **Download files** section, search for the version compatible with your function runtime. For example, look for `cp311` if you're using Python 3.11.
 
-3. **📋 Copy the Manylinux wheels Link**
+3. **📋 Copy the Manylinux wheel Link**
    - Right-click the `manylinux` x86_64 version link for the desired version and copy the link address.
 
 4. **📝 Add to Requirements.txt**
