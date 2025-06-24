@@ -27,8 +27,6 @@ This project is an AWS Lambda function that sends a **random motivational quote*
 - As pandas package is not directly avaiblable in Amazon Linux enviroment, we have to package the pandas layer so that we can use it in our code.
 - [Sometimes, a package that you want to include as a dependency won't have a universal wheel (specifically, it doesn't have any as the platform tag). In this case, download the wheel that supports manylinux instead. This ensures that your layer libraries are compatible with Amazon Linux.](https://docs.aws.amazon.com/lambda/latest/dg/python-layers.html#python-layer-manylinux)
 
-Here’s an updated version of your challenges section with **headings** and **emojis** for a more engaging look:
-
 ## Motivational Quotes received on email
 ![Output](docs/OutputEmail.png)
 ---
